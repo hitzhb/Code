@@ -1,1 +1,2 @@
-# Code
+# 说明 
+本仓库用来放一些学习编程的代码。C文件夹中放的是学习C的过程中的代码，LeetCode文件夹里放的是刷题的代码，源程序的命名规则，LeetCode题号_主要函数名称.c, 比如1217_minCostToMoveChip.c. 同时还有配置好的VSCode文件和Clion中的CMakelist.txt等文件，因为配置实在是太麻烦了，我不想一次次上网找，然后时间一久就忘了。
