@@ -1,0 +1,20 @@
+# ninja log v5
+0	256	6698905563948821	CMakeFiles/Code.dir/hello.c.obj	8d1b5196c6710e1f
+1	318	6698951775119676	build.ninja	85f9b6369524333c
+2	197	6698907882338899	CMakeFiles/test.dir/test.c.obj	5d2e47f11923e6e7
+1	82	6698912100844925	CMakeFiles/minCostToMoveChips.dir/1217_minCostToMoveChips.c.obj	dd835d55209d7f58
+1	97	6698907361596942	CMakeFiles/test.dir/hello.c.obj	35fc5af6644071eb
+1	165	6698907210576480	CMakeFiles/Code.dir/test.c.obj	1860d682ee630097
+3	144	6698908140154678	CMakeFiles/hello.dir/hello.c.obj	6dc0b89759f5d655
+168	749	6698907215353661	Code.exe	c18210f3dc8a9690
+199	365	6698907884044324	test.exe	eb69e92da1fffbff
+145	340	6698908142069368	hello.exe	80985594b7df7aa5
+84	364	6698912103560180	minCostToMoveChips.exe	79922277635840ea
+0	91	6698917875898695	CMakeFiles/9_isPalindrome.dir/9_isPalindrome.c.obj	d58df21b36cc7b71
+92	298	6698917877943180	9_isPalindrome.exe	feae10d1af5b812a
+1	96	6698918256101623	CMakeFiles/struct_.dir/C/struct_.c.obj	f30a16955d0f5e5b
+98	272	6698918257846940	struct_.exe	d6ac60b7c8ce0b38
+0	102	6698918434444523	CMakeFiles/union_.dir/C/union_.c.obj	a95bdcbe70db64d4
+104	271	6698918436116374	union_.exe	4f8a58f4289f7b2a
+1	96	6698918868012861	CMakeFiles/1217_minCostToMoveChips.dir/1217_minCostToMoveChips.c.obj	83598e4fd53489e2
+97	471	6698918871742872	1217_minCostToMoveChips.exe	f67c352045e650ab

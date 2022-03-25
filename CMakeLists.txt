@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.21)
+project(Code)
+
+set(CMAKE_C_STANDARD 99)
+add_executable(test test.c)
+add_executable(hello hello.c)
+add_executable(9_isPalindrome 9_isPalindrome.c)
+add_executable(struct_ C/struct_.c)
+add_executable(union_ C/union_.c)
+add_executable(1217_minCostToMoveChips 1217_minCostToMoveChips.c hhh.c)
